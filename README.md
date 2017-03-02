@@ -5,4 +5,4 @@ NSS exercises in node.js
 
 2. direct execution https://github.com/nashville-software-school/node-milestones/blob/master/01-foundations/exercises/02-direct_execution.md
 
-
+3. global object https://github.com/nashville-software-school/node-milestones/blob/master/01-foundations/exercises/03-global_object.md
