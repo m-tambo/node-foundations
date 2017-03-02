@@ -1,3 +1,6 @@
+#!/usr/bin/env node
+
+
 const firstName = ['J','O','H','N']
 const lastName = ['D','O','E']
 const fullName = [...firstName,' ', ...lastName]
@@ -6,7 +9,7 @@ const joiner = (array) => array.join('')
 
 const cheer = function(name) {
 
-    let interval = setInterval( function () {
+    // let interval = setInterval( function () {
       for (let i = 0; i < name.length; i++) {
         if (name[i] === 'O' || name[i] === 'E') {
           console.log('GIVE ME AN ' + name[i] + "!")
@@ -14,7 +17,7 @@ const cheer = function(name) {
         console.log('GIVE ME A ' + name[i] + "!")
         }
       }
-    }, 1000)
+    // }, 1000)
 
 }
 
