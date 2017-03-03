@@ -8,3 +8,5 @@ NSS exercises in node.js
 3. global object (global-object.js) https://github.com/nashville-software-school/node-milestones/blob/master/01-foundations/exercises/03-global_object.md
 
 5. command line arguments (args.js) https://github.com/nashville-software-school/node-milestones/blob/master/01-foundations/exercises/05-command_arguments.md
+
+6. third party modules (flag.js) https://github.com/nashville-software-school/node-milestones/blob/master/01-foundations/exercises/06-third_party_modules.md
