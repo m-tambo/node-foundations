@@ -2,4 +2,9 @@
 
 const [,, ...args] = process.argv
 
-console.log(args.reduce( (prev, curr) => Number(prev) + Number(curr) ))
+if (args.length === 0) {
+  console.log('zip')
+}
+else {
+  console.log(args.reduce( (prev, curr) => Number(prev) + Number(curr) ))
+}
