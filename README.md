@@ -15,5 +15,4 @@ NSS exercises in node.js
 
 (09) streams (streams.js) https://github.com/nashville-software-school/node-milestones/blob/master/01-foundations/exercises/09-streaming-io.md
 
-(11) sql queries (SQL/queries.sql) https://github.com/m-tambo/intro-to-sql
-https://github.com/nashville-software-school/node-milestones/blob/master/01-foundations/exercises/11-sql_queries_01.md
+(11) sql queries (separate repo: https://github.com/m-tambo/intro-to-sql) https://github.com/nashville-software-school/node-milestones/blob/master/01-foundations/exercises/11-sql_queries_01.md
